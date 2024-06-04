@@ -1,5 +1,8 @@
 # Micro-Temp-Humidity-Controller
-Firstly It was done on matlab then hardware
+Firstly It was done on Matlab then 
+
+<br>
+<br>
 <br>
 A device that measures the temperature and humidity in the air around it. It then displays the results on a small screen called an OLED display of 0.96 inch(128X64 pixels) for 2 seconds. It is programmed in an Arduino(UNO was used here) and needs only a power supply after the program is stored in the flash memory I have also made a programmable LED green and red bulb that turns on simultaneously after all calculations from sensors (DHT-11) are made and stays on for 2s and turns off after displaying
 
