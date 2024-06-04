@@ -13,38 +13,24 @@ The device is also very energy efficient. It only uses a small amount of power t
 <hr style="border: 1px dashed black;">
 <hr style="border: 1px dashed black;">
 
-<h2>Setup</h2>  
+<h2>Setup</h2> 
+
 ![Setup](https://github.com/guptuv/Micro-Temp-Humidity-Controller/assets/116263507/7b1e9860-e388-47c7-a0f5-b203c0cd8788)
 <hr style="border: 1px dashed black;">
 
 <h2>The readings are displayed for a duration of 2 seconds to ensure readability by humans.</h2>
+
 ![delay 3 12 seconds](https://github.com/guptuv/Micro-Temp-Humidity-Controller/assets/116263507/b0323e61-1169-48e9-9e04-8b92846b86df)
 <hr style="border: 1px dashed black;">
 
 <h2>Under normal Room Temperature</h2>
+
 ![normally](https://github.com/guptuv/Micro-Temp-Humidity-Controller/assets/116263507/c9d144bc-9802-4f60-8843-f5c7af268355)
 <hr style="border: 1px dashed black;">
 
 <h2>The humidity has increased when a water soaked paper has been placed near to DHT11 sensor</h2>
+
 ![near water soaked paper](https://github.com/guptuv/Micro-Temp-Humidity-Controller/assets/116263507/0116af92-c9e6-4511-9bea-9a56e29d6f1f)
 
-<div class="centered-box">
-  This is some text with XXX in the middle.
-  <span class="xxx">XXX</span>
-</div>
-
-<style>
-  .centered-box {
-    text-align: center;
-    border: 1px solid #ccc;
-    padding: 5px;
-    margin: 10px auto;
-  }
-  .xxx {
-    display: inline-block;
-    background-color: #eee; /* Optional background color */
-    padding: 2px;
-  }
-</style>
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
