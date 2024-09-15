@@ -20,6 +20,12 @@ The device is also very energy efficient. It only uses a small amount of power t
 <hr style="border: 1px dashed black;">
 <hr style="border: 1px dashed black;">
 
+
+Types of DHT sensors available 
+Due to cost- I took the first one
+![image](https://github.com/user-attachments/assets/53c7ab74-6f5c-48dd-a351-34ff29deca47)
+
+
 <h2>Setup</h2> 
 
 ![Setup](https://github.com/guptuv/Micro-Temp-Humidity-Controller/assets/116263507/7b1e9860-e388-47c7-a0f5-b203c0cd8788)
