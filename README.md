@@ -25,6 +25,15 @@ Types of DHT sensors available
 Due to cost- I took the first one
 ![image](https://github.com/user-attachments/assets/53c7ab74-6f5c-48dd-a351-34ff29deca47)
 
+Internal Circuit Diagram
+![image](https://github.com/user-attachments/assets/309bf58f-3e19-46ac-aa83-4cbf802d258a)
+
+![image](https://github.com/user-attachments/assets/0076b7d0-559c-4adf-a132-e036ff686e63)
+
+![image](https://github.com/user-attachments/assets/88086a1e-e990-4cbb-a172-325afda4f03d)
+
+
+
 
 <h2>Setup</h2> 
 
